@@ -1,0 +1,2 @@
+from model.magnet import EnhancedMAGNET
+from model.hourglass_transformer import HourglassTransformer
